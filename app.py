@@ -11,7 +11,7 @@ Adds:
   - Annotated MJPEG video stream
 
 Install:
-    pip install flask flask-cors opencv-python ultralytics numpy
+    pip install flask flask-cors opencv-python ultralytics numpy cv2
 
 Run:
     python app.py --video traffic.mp4
